@@ -1,2 +1,2 @@
-# spec
-Specification, descriptions and documentation
+# Spec-Box Specifications
+Specification, descriptions and documentation storage
