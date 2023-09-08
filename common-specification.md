@@ -28,6 +28,16 @@ The TMS offers the following key functionalities:
 
 - **Linking to Developer's Tasks**: Associate test cases with the developer's tasks or features under test, fostering collaboration and traceability.
 
+- **Project**: Represents the overarching project or software under test.
+
+- **Application Part**: Breaks down the project into specific application parts or modules.
+
+- **Feature**: Hierarchical catalogs that allow for the organization of test cases related to individual features or functionalities.
+
+- **Test Cases**: Individual test cases designed to verify specific aspects of a feature.
+
+- **Case Description and Requirements**: Detailed documentation associated with each test case, including description, preconditions, and expected outcomes.
+
 ### 2.2. Stakeholders
 
 The primary stakeholders of the TMS include:
